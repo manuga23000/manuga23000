@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Alessi</h1>
 <h3 align="center">I am a passionate Full Stack developer from Argentina, with a focus on the backend.</h3>
 
-- 🙋🏻‍♂️ Ask me about **Soy un apasionado de la programación, los diferentes lenguajes y enfrentar tareas exigentes que forman parte de mi lista de objetivos por cumplir.**
+- 🙋🏻‍♂️ **Soy un apasionado de la programación, los diferentes lenguajes y enfrentar tareas exigentes que forman parte de mi lista de objetivos por cumplir.**
 
 - 📫 How to reach me **emanuelalessi14@gmail.com**
 
