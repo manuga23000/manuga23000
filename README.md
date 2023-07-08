@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Alessi</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuga23000&label=Profile%20views&color=0e75b6&style=flat" alt="manuga23000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuga23000" alt="manuga23000" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🙋🏻‍♂️ Ask me about **Soy un apasionado de la programación, los diferentes lenguajes y enfrentar tareas exigentes que forman parte de mi lista de objetivos por cumplir.**
+- 🙋🏻‍♂️ **Soy un apasionado de la programación, los diferentes lenguajes y enfrentar tareas exigentes que forman parte de mi lista de objetivos por cumplir.**
 
 - 📫 How to reach me **emanuelalessi14@gmail.com**
 
