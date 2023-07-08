@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Alessi</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🙋🏻‍♂️ **Soy un apasionado de la programación, los diferentes lenguajes y enfrentar tareas exigentes que forman parte de mi lista de objetivos por cumplir.**
+- 🙋🏻‍♂️ **I am passionate about programming, different languages, and taking on demanding tasks that are part of my list of goals to accomplish..**
 
 - 📫 How to reach me **emanuelalessi14@gmail.com**
 
