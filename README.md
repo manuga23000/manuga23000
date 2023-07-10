@@ -129,10 +129,7 @@
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats </h2>
   <p align="center">
     <a href="https://github.com/manuga23000">
-      <img
-        height="180em"
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuga23000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-      />
+      
     </a>
     <a href="https://github.com/manuga23000">
       <img
