@@ -153,10 +153,10 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="kevin-barrios-developer"
   /></a>
-  <a href="https://dev.to/motionsoft05" target="blank"
+  <a href="https://dev.to/manuga23000" target="blank"
     ><img
       align="center"
-      src="https://dev.to/manuga23000?style=for-the-badge&logo=devdotto&logoColor=white"
+      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
       alt="manuga23000"
   /></a>
 </p>
