@@ -41,12 +41,12 @@
       alt="html5"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"
-    />
-  </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="css"
+  />
+</a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
