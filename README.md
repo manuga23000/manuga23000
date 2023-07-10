@@ -111,12 +111,6 @@
       alt="git"
     />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
-      alt="photoshop"
-    />
-  </a>
 </p>
 <br /><br />
 <img
@@ -125,14 +119,14 @@
 
 ⚙️ GitHub Analytics
 
-<a href="https://github.com/motionsoft05">
+<a href="https://github.com/manuga23000">
   <img
     height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=motionsoft05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuga23000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=motionsoft05&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuga23000&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"
   />
 </a>
 
