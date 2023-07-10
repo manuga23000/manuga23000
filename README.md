@@ -3,7 +3,7 @@
 
 - 🙋🏻‍♂️ **Soy un apasionado de la programación, los diferentes lenguajes y enfrentar tareas exigentes para seguir creciendo en mi carrera.**
 
-- 🌱 **Me encuentro aprendiendo MongoDB y Typescript, manteniéndome al día con las últimas tendencias en el desarrollo de software.**
+- 🌱 **Me encuentro aprendiendo MongoDB y TypeScript, manteniéndome al día con las últimas tendencias en el desarrollo de software.**
 
 - 📫 How to reach me **emanuelalessi14@gmail.com**
 
