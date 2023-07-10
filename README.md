@@ -156,7 +156,7 @@
   <a href="https://dev.to/motionsoft05" target="blank"
     ><img
       align="center"
-      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
-      alt="motionsoft05"
+      src="https://dev.to/manuga23000?style=for-the-badge&logo=devdotto&logoColor=white"
+      alt="manuga23000"
   /></a>
 </p>
