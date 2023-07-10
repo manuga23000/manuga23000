@@ -131,7 +131,7 @@
     <a href="https://github.com/manuga23000">
     <img
         height="180em"
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuga23000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=MotionSoft05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
       />
     </a>
     <a href="https://github.com/manuga23000">
