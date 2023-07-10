@@ -17,6 +17,24 @@
 <p align="left">
   <b>Frontend:</b>
   <br />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      alt="react"
+    />
+  </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+      alt="redux"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/nextjs-316192?style=for-the-badge"
+      alt="nextjs"
+    />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -27,24 +45,6 @@
     <img
       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="react"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-      alt="redux"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/nextjs-316192?style=for-the-badge"
-      alt="nextjs"
     />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
