@@ -99,18 +99,12 @@
 <p align="left">
   <b>Other Tools:</b>
   <br />
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/babeljs-404D59?style=for-the-badge"
-      alt="babel"
-    />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"
-      alt="blender"
-    />
-  </a>
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"
+    alt="insomnia"
+  />
+</a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/firebase-F7DF1E?style=for-the-badge"
