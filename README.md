@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emanuel Alessi</h1>
-<h3 align="center">I am a Full Stack developer from Argentina, with a focus on the backend.</h3>
+<h3 align="center">I am a Full Stack developer from Argentina, with a focus on the Backend.</h3>
 
 - 🙋🏻‍♂️ **I am passionate about programming, different languages, and taking on challenging tasks to continue growing in my career.**
 
