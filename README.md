@@ -53,6 +53,12 @@
       alt="tailwind"
     />
   </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+    alt="bootstrap"
+  />
+</a>
 </p>
 
 <p align="left">
