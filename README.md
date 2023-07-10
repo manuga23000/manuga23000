@@ -47,6 +47,12 @@
     alt="css"
   />
 </a>
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
+    alt="styled-components"
+  />
+</a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
