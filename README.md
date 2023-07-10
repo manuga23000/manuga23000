@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emanuel Alessi</h1>
-<h3 align="center">I am a Full Stack developer from Argentina, with a focus on the Backend.</h3>
+<h3 align="center">Full Stack developer from Argentina, with a focus on the Backend.</h3>
 
-- 🙋🏻‍♂️ **I am passionate about programming, different languages, and taking on challenging tasks to continue growing in my career.**
+- 🙋🏻‍♂️ **I'm passionate about programming, learning different languages, and taking on challenging tasks to continue growing in my career.**
 
-- 🌱 **I am currently learning MongoDB and TypeScript, staying up-to-date with the latest trends in software development.**
+- 🌱 **Currently, I'm learning MongoDB and TypeScript to stay up-to-date with the latest trends in software development.**
 
 - 📫 How to reach me **emanuelalessi14@gmail.com**
 
