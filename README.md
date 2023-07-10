@@ -121,47 +121,30 @@
   </a>
 </p>
 <br /><br />
-<img
+<img 
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/><br /><br />
-
-⚙️ GitHub Analytics
-
-</p><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+/><br />
 
 <div align="center">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats </h2>
+  <p align="center">
+    <a href="https://github.com/manuga23000">
+      <img
+        height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuga23000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      />
+    </a>
+    <a href="https://github.com/manuga23000">
+      <img
+        height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuga23000&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"
+      />
+    </a>
+  </p>
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
-![Views](https://komarev.com/ghpvc/?username=dzenis-h&label=Profile+visitors:)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
-  
-
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzenis-h&count_private=true&show_icons=true&theme=dark&hide=issues)
-
-</div><br>
-
-<a href="https://github.com/manuga23000">
-  <img
-    height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuga23000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuga23000&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"
-  />
-</a>
-
-<br /><br />
-
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=manuga23000&label=Profile%20views&color=0e75b6&style=flat"
     alt="manuga23000"
