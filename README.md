@@ -127,6 +127,27 @@
 
 ⚙️ GitHub Analytics
 
+</p><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=dzenis-h&label=Profile+visitors:)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
+  
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzenis-h&count_private=true&show_icons=true&theme=dark&hide=issues)
+
+</div><br>
+
 <a href="https://github.com/manuga23000">
   <img
     height="180em"
